@@ -1,0 +1,15 @@
+# Sensitive personal data - DO NOT commit
+history.jsonl
+debug/
+file-history/
+shell-snapshots/
+projects/
+todos/
+statsig/
+
+# macOS system files
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log
