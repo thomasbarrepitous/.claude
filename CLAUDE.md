@@ -20,3 +20,9 @@ Only add code comments in the following scenarios:
     We are deviating from the standard or obvious way to accomplish something.
     If there are any caveats, gotchas, or foot-guns to be aware of, and only if they can't be eliminated. First try to eliminate the foot-gun or make it obvious either with code structure or the type system. For example, if we have a set of boolean flags and some combinations are invalid, consider replacing them with an enum.
 Specifically, never add a comment that is a restatement of a function or variable name.
+
+# Preferred Tools
+Use available project commands when needed:
+- /test
+- /review
+- /docs
