@@ -1,6 +1,26 @@
 {
   "version": 3,
-  "skills": {},
+  "skills": {
+    "performance-optimization": {
+      "source": "supercent-io/skills-template",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/supercent-io/skills-template.git",
+      "skillPath": ".agent-skills/performance-optimization/SKILL.md",
+      "skillFolderHash": "22fef0bb5eb49ef84b44ee7f94d787597d22c252",
+      "installedAt": "2026-03-13T00:04:30.650Z",
+      "updatedAt": "2026-03-13T00:04:30.650Z"
+    },
+    "seo-audit": {
+      "source": "coreyhaines31/marketingskills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills.git",
+      "skillPath": "skills/seo-audit/SKILL.md",
+      "skillFolderHash": "c5423e592d1ce900fafca88b17f3896eea53b237",
+      "pluginName": "marketing-skills",
+      "installedAt": "2026-03-13T14:32:08.261Z",
+      "updatedAt": "2026-03-13T14:32:08.261Z"
+    }
+  },
   "dismissed": {
     "findSkillsPrompt": true
   },
